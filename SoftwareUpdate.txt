@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Pass callbacks to validator (#7320)
