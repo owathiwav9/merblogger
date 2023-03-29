@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
