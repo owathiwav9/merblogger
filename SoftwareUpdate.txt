@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update Colab notebook for YOLOv8.1 (#8660)
