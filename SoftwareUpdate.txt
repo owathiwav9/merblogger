@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
