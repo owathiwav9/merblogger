@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
