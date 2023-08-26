@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add horizontal Mosaic3 augmentation (#6898)
