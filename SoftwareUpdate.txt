@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Rename model_id to model.id (#8447)
