@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add visuals in guides/distance-calculation.md (#7876)
