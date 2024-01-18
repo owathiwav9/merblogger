@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
