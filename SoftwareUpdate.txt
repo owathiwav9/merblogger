@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
