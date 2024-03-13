@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add distance calculation feature in vision-eye (#8616)
