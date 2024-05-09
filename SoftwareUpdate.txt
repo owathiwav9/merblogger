@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
